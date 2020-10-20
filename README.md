@@ -1,2 +1,2 @@
-# COMPSCI220
-This contains all work I've completed in the COMPSCI220 course at the University of Auckland.
+# University of Auckland Works
+This contains all work I've completed in the various courses at the University of Auckland.
